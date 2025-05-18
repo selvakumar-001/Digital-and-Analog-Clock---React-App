@@ -18,7 +18,9 @@ A stylish and functional **Digital & Analog Clock** built using **React.js**. Th
 ## 🖼️ Preview
 
 
- ![Clock Preview](./assets/screenshot.png)
+## 🖼️ Preview
+
+![Clock Preview](src/assets/screenshot.png)
 
 ---
 
